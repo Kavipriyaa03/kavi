@@ -1,0 +1,106 @@
+.form12
+{
+	width:800px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #f9f8f8;
+    padding: 80px;
+    margin: 60px;
+    text-align: left;
+    margin-top: 60px;
+    margin-bottom: 100px;
+    padding: 24px;
+	color: rgb(99, 99, 166);
+    
+}
+.input-bo
+{
+border-radius: 20px;
+padding: 10px;
+margin: 10px 0;
+width: 100%;
+border: 3px solid #a376ed;
+outline: none;
+}
+.Su
+{
+	color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin:10px 0;
+    border: none;
+}
+.Sign-in-form
+{
+width:500px;
+box-shadow: 0 0 3px 0 rgba(3, 88, 17, 0.3);
+background: #b4dfdc;
+padding: 20px;
+margin:8% auto 0;
+text-align: center;
+margin-bottom: 90px;
+margin-top: 10px;
+border-radius: 24px;
+height:400px;
+}
+
+.Sign-in-form h1
+{
+color: #131111;
+margin-bottom: 10px;
+}
+.inputbox
+{
+border-radius: 90px;
+padding: 10px;
+margin: 10px 0;
+width: 85%;
+border: 1px solid #999;
+outline: none;
+}
+.button1
+{
+color: #fff;
+width: 100%;
+padding: 10px;
+border-radius: 20px;
+font-size: 15px;
+margin:10px 0;
+border: none;
+width: 100px;
+
+
+}
+
+.signin-button
+{
+background-color: #504945;
+width: fit-content;
+}
+.signup-button:hover
+{
+cursor: pointer;
+background: #757082;
+color: #fbf7f7
+}
+.google-button
+{
+background-color: #1c8adb;
+}
+
+.google-button:hover
+{
+cursor: pointer;
+background: #7464bc;
+color: #000
+}
+
+hr{
+margin-top: 20px;
+width:80%
+}
+.form{
+   border-radius: 24px;
+   height: 500px;
+}
